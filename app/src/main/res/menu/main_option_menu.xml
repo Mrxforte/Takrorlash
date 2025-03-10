@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/simpleListView"
+        android:title="@string/simplelistview" />
+    <item
+        android:id="@+id/customListView"
+        android:title="@string/custom_listview" />
+    <item
+        android:id="@+id/gridView"
+        android:title="@string/gridview_screen" />
+    <item
+        android:id="@+id/java"
+        android:title="@string/java" />
+</menu>
